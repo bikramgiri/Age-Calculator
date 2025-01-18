@@ -24,7 +24,7 @@ To use the this calculator, simply enter the Date of Birth as given format and c
 
 
 # Credits
-This calculator was created by [bikramgiri](https://github.com/bikramgiri/) as a practice.
+This calculator was created by [bikramgiri](https://github.com/bikramgiri/) as a HTML,CSS AND JavaScript practice.
 
 
 # Demo
