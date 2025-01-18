@@ -23,6 +23,9 @@ Once you have cloned the repository, open the `index.html` file in your browser 
 To use the this calculator, simply enter the Date of Birth as given format and click the Calculate Age button. This calculate will display your present age.
 
 
+# Credits
+This calculator was created by [bikramgiri](https://github.com/bikramgiri/) as a practice.
+
 
 # Demo
 
